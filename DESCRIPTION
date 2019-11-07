@@ -1,0 +1,14 @@
+Package: testTools
+Title: My tool packages for analyzing limiting dilution assays
+Version: 0.0.0.9000
+Authors@R: 
+    person(given = "Jian",
+           family = "Li",
+           role = c("aut", "cre"),
+           email = "jli8@tulane.edu",
+           comment = c(ORCID = "https://orcid.org/0000-0002-9377-4720"))
+Description: This package contains multiple functions implemented various published methods for analyzing limiting dilution assay data. 
+License: Apache License (>= 2.0)
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.1.1
